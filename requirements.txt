@@ -3,4 +3,5 @@ pandas
 streamlit
 fastapi
 pydantic
-sklearn
+scikit-learn
+scipy
